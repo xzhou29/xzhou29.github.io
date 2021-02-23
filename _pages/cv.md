@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science with Math minor, University of Houston, 2017
-* M.S. in Computer Science with Data Analytics track, University of Houston, 2019
 * Ph.D in  Computer Science with Software Security focus, University of Houston, 2023 (expected)
+* M.S. in Computer Science with Data Analytics track, University of Houston, 2019
+* B.S. in Computer Science with Math minor, University of Houston, 2017
+
 
 Work experience
 ======
