@@ -2,7 +2,7 @@
 title: "PhishBench 2.0: A Versatile and Extendable Benchmarking Framework for Phishing"
 collection: publications
 permalink: /publication/publication_3
-excerpt: 'PhishBench, Phishing Detection'
+excerpt: 'Keywords: PhishBench, Phishing Detection'
 date: 2020-10-30
 
 venue: 'Proceedings of the 2020 ACM SIGSAC Conference on Computer and Communications Security'
