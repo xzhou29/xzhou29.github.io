@@ -83,8 +83,8 @@ author:
   name             : "Xin Zhou"
   avatar           : "xinzhou.jpg"
   bio              : "PhD Student in Computer Science"
-  location         : "Houston"
-  employer         : "University of Houston"
+  location         : "University of Houston"
+  employer         : # "University of Houston"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eu4XUeQAAAAJ&hl=en"
   email            : "xin9186@gmail.com"
