@@ -2,7 +2,7 @@
 title: "Phishing Sites Detection from a Web Developer’s Perspective Using Machine Learning"
 collection: publications
 permalink: /publication/publication_1
-excerpt: 'Phishing Detection, Machine Learning, and Cyber Threat Intelligence and Analytics'
+excerpt: 'Phishing Detection, Machine Learning, Cyber Threat Intelligence and Analytics'
 date: 2020-01-07
 venue: 'Proceedings of the 53rd Hawaii International Conference on System Science, 2020'
 paperurl: 'http://128.171.57.22/handle/10125/64536'
