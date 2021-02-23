@@ -7,5 +7,6 @@ venue: "University of Houston, Computer Science"
 date: 2021-01-19
 location: "Houston, United States"
 ---
-COSC 4346/6346 Security Analytics
+COSC 4346/6346 Security Analytics, Spring, 2021
+Professor: [Dr. Rakesh M. Verma](http://www2.cs.uh.edu/~rmverma/)
 
