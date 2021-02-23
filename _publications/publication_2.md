@@ -2,7 +2,7 @@
 title: "Using Neural Architecture Search for Improving Software Flaw Detection in Multimodal Deep Learning Models"
 collection: publications
 permalink: /publication/publication_2
-excerpt: 'Neural Architecture Search, Software Flaw Detection, Multimodal Deep Learning'
+excerpt: 'Keywords: Neural Architecture Search, Software Flaw Detection, Multimodal Deep Learning'
 date: 2020-09-22
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2009.10644.pdf'
