@@ -85,7 +85,7 @@ author:
   bio              : "Hello world!"
   location         : "Houston"
   employer         : "University of Houston"
-  pubmed           : ""
+  # pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=eu4XUeQAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
