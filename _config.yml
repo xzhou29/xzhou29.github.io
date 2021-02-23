@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://xzhou29.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xzhou29.github.io"
-teaser                   :  xinzhou.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : #xinzhou.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         : "University of Houston"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=eu4XUeQAAAAJ&hl=en"
-  email            : #""
+  email            : "xin9186 at gmail"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
