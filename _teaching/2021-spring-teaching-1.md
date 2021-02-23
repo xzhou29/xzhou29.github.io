@@ -1,5 +1,5 @@
 ---
-title: "Instructional Assistant"
+title: "Instructional Assistant: COSC 4346/6346 Security Analytics"
 collection: teaching
 type: "Undergraduate/Graduate course"
 permalink: /teaching/2021-spring-teaching-1
@@ -9,11 +9,3 @@ location: "Houston, United States"
 ---
 COSC 4346/6346 Security Analytics
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
