@@ -57,4 +57,5 @@ Teaching
   
 Service and leadership
 ======
+* Fall 2020 - Present: President of Ethical Hacking Club (https://ethicalhacking.club/)
 
