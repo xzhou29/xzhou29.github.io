@@ -23,7 +23,7 @@ Work experience
   * Sandia National Laboratories
   * Albuquerque, New Mexico, United States
 
-* Jan 2021 - Present: Instructional Assistant
+* Jan 2021 - Present: Instructional Assistant/Research Assistant
   * University of Houston
   * Houston, Texas, United States
 
@@ -47,5 +47,5 @@ Publications
   
 Service and leadership
 ======
-* Fall 2020 - Present: President of [Ethical Hacking Club](https://ethicalhacking.club/)
+* Fall 2020 - May 2021: President of [Ethical Hacking Club](https://ethicalhacking.club/)
 
