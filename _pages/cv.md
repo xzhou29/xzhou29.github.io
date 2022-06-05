@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 
-* Jun 2019 - Present: Research & Development Engineer (Year-Round Intern)
+* Jun 2019 - Present: Research & Development Cybersecurity (Year-round Intern)
   * Sandia National Laboratories
   * Albuquerque, New Mexico, United States
 
