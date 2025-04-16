@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in  Computer Science with Software Security focus, University of Houston, 2023 (expected)
+* Ph.D in  Computer Science with Software Security focus, University of Houston, Dec 2022 (Dropped out)
 * M.S. in Computer Science with Data Analytics track, University of Houston, 2019
 * B.S. in Computer Science with Math minor, University of Houston, 2017
 
@@ -19,11 +19,15 @@ Education
 Work experience
 ======
 
-* Jun 2019 - Present: Research & Development Cybersecurity (Year-round Intern)
+* Jan 2023 - Present: ML/AI Engineer
+  * MITRE Corp
+  * Austin, Texas, United States
+    
+* Jun 2019 - Dec 2022: Research & Development Cybersecurity (Year-round Intern)
   * Sandia National Laboratories
-  * Albuquerque, New Mexico, United States
+  * Albuquerque/Remote, New Mexico, United States
 
-* Jan 2021 - Present: Instructional Assistant/Research Assistant
+* Jan 2021 - Dec 2022: Instructional Assistant/Research Assistant
   * University of Houston
   * Houston, Texas, United States
 
