@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a PhD Student in ReDAS (Reasoning and Data Analytics for Security) lab @ University of Houston. My Ph.D. advisor is [Rakesh M. Verma](http://www2.cs.uh.edu/~rmverma/). I'm interested in Software Security, Cybersecurity, Phishing Detection, and Machine Learning. I received  my bachelor and master degree in Computer Science from University of Houston in 2017 and 2019, respectively.
-
+I'm passionate about building scalable full stack applications and exploring the potential of machine learning and artificial intelligence. I earned both my Bachelor's and Master's degrees in Computer Science from the University of Houston in 2017 and 2019, respectively.
