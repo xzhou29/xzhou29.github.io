@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in  Computer Science with Software Security focus, University of Houston, Dec 2022 (Dropped out)
+* Ph.D in  Computer Science with Software Security focus, University of Houston, Dec 2022 (Withdrew)
 * M.S. in Computer Science with Data Analytics track, University of Houston, 2019
 * B.S. in Computer Science with Math minor, University of Houston, 2017
 
