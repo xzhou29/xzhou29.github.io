@@ -20,7 +20,7 @@ Work experience
 ======
 
 * Jan 2023 - Present: ML/AI Engineer
-  * MITRE Corp
+  * The MITRE Corporation
   * Austin, Texas, United States
     
 * Jun 2019 - Dec 2022: Research & Development Cybersecurity (Year-round Intern)
